@@ -1,0 +1,24 @@
+{
+	"files" : {
+		"fxs" :{
+			"click"	: {"asset":"click", "volume":1},
+			"pushBox": {"asset":"force_impact", "volume":0.6},
+			"jumpTrampoline": {"asset":"full_boing", "volume":1},
+			"interdiction": {"asset":"force_impact", "volume":0.6},
+			"lockedlevel": {"asset":"unvalid", "volume":1},
+			"missionComplete": {"asset":"mission_complete", "volume":0.7},
+			"onTarget": {"asset":"on_target", "volume":0.3},
+			"login": {"asset":"login_authorized", "volume":1}
+		},
+		"musics" :{
+			"level0" : {"asset":"level4_loop", "volume":0.6},
+			"intro" : {"asset":"intro_loop", "volume":0.5},
+			"victory" : {"asset":"victory_jingle", "volume":0.5}
+		}
+	},
+	"volumes" : {
+		"master" : 1,
+		"fxs" : 0.8,
+		"musics" : 0.5
+	}	
+}

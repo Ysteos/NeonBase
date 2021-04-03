@@ -1,0 +1,202 @@
+{
+	"TITLE":
+	{
+	"en":"NEON BASE",
+	"fr":"NEON BASE"
+	},
+	"LABEL_PLAY":
+	{
+	"en":"Play",
+	"fr":"Jouer"
+	},
+	"LABEL_MENU":
+	{
+	"en":"Menu",
+	"fr":"Menu"
+	},
+	"LABEL_RETRY":
+	{
+	"en":"RETRY",
+	"fr":"REESSAYER"
+	},
+	"LABEL_LEVEL":
+	{
+	"en":"Level: ",
+	"fr":"Niveau : "
+	},
+	"LABEL_BACK":
+	{
+	"en":"Back",
+	"fr":"Retour"
+	},
+	"LABEL_NEXT":
+	{
+	"en":"Next",
+	"fr":"Suivant"
+	},
+	"HELP_HOWTOPLAY1":
+	{
+	"en":"Place the sphere on the target",
+	"fr":"Tu dois placer la sphère sur la cible"
+	},
+	"HELP_HOWTOPLAY2":
+	{
+	"en":"Use the teleporter to get over a wall or a sphere",
+	"fr":"Utilise le téléporteur pour passer au dessus d'un mur ou d'une sphère"
+	},
+	"HELP_HOWTOPLAY3":
+	{
+	"en":"Use these controls to move",
+	"fr":"Utilise ces touches \rpour bouger"
+	},
+	"HELP_HOWTOPLAY4":
+	{
+	"en":"You can also use your mouse",
+	"fr":"Tu peux aussi utiliser la souris"
+	},
+	"WINSCREEN_FINAL_TITLE":
+	{
+	"en":"Well done!",
+	"fr":"Super ! Bien joué !"
+	},
+	"WINSCREEN_CONGRATS0":
+	{
+	"en":"Awesome!",
+	"fr":"Génial !"
+	},
+	"WINSCREEN_CONGRATS1":
+	{
+	"en":"You did it!",
+	"fr":"Tu as réussis !"
+	},
+	"WINSCREEN_TITLE":
+	{
+	"en":"You win!",
+	"fr":"Victoire !"
+	},
+	"WINSCREEN_MESSAGE0":
+	{
+	"en":"Good Job!",
+	"fr":"Bon travail !"
+	},
+	"WINSCREEN_MESSAGE1":
+	{
+	"en":"You completed all the levels!",
+	"fr":"Tu as complété tous les niveaux !"
+	},
+	"LABEL_LOGIN_INPUT":
+	{
+	"en":"Enter your username here",
+	"fr":"Entre ton pseudo ici"
+	},
+	"LABEL_LANGUAGE":
+	{
+	"en":"FR",
+	"fr":"ENG"
+	},
+	"LABEL_HIGHSCORES":
+	{
+	"en":"HIGHSCORES",
+	"fr":"CLASSEMENT"
+	},
+	"LABEL_SOUND":
+	{
+	"en":"",
+	"fr":""
+	},
+	"LABEL_UNLOCK":
+	{
+	"en":"UNLOCK",
+	"fr":"DEBLOQUER"
+	},
+	"LABEL_REDO":
+	{
+	"en":"REDO",
+	"fr":"REFAIRE"
+	},
+	"LABEL_UNDO":
+	{
+	"en":"UNDO",
+	"fr":"ANNULER"
+	},
+	"LABEL_HELP":
+	{
+	"en":"HELP",
+	"fr":"AIDE"
+	},
+	"LABEL_OK":
+	{
+	"en":"OK",
+	"fr":"OK"
+	},
+	"LABEL_QUIT":
+	{
+	"en":"QUIT",
+	"fr":"QUITTER"
+	},
+	"LABEL_PAR":
+	{
+	"en":"Par: ",
+	"fr":"Par : "
+	},
+	"LABEL_NUMBER_OF_STEPS":
+	{
+	"en":"Number of steps: ",
+	"fr":"Nombre de pas : "
+	},
+	"LABEL_TUTO":
+	{
+	"en":"Tuto",
+	"fr":"Tuto"
+	},
+	"LABEL_1":
+	{
+	"en":"1",
+	"fr":"1"
+	},
+	"LABEL_2":
+	{
+	"en":"2",
+	"fr":"2"
+	},
+	"LABEL_3":
+	{
+	"en":"3",
+	"fr":"3"
+	},
+	"LABEL_4":
+	{
+	"en":"4",
+	"fr":"4"
+	},
+	"LABEL_5":
+	{
+	"en":"5",
+	"fr":"5"
+	},
+	"LABEL_6":
+	{
+	"en":"6",
+	"fr":"6"
+	},
+	"LABEL_7":
+	{
+	"en":"7",
+	"fr":"7"
+	},
+	"LABEL_8":
+	{
+	"en":"8",
+	"fr":"8"
+	},
+	"LABEL_STEPS":
+	{
+	"en":"Steps:",
+	"fr":"Pas : "
+	},
+	"LABEL_WELCOME":
+	{
+	"en":"Welcome ",
+	"fr":"Bienvenue "
+	}
+}
